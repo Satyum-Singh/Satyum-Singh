@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyum Singh Pathania</h1>
 <h4 align="center"><b>I  Design to Develop. Develop to Innovate. Innovate for Betterment. Betterment of the living.</b></h4>
 
-- 🌱 I’m currently opting with new **FrontEnd libraries**
+- 🌱 I’m currently mastering the concepts of **MERN** with new **React FrontEnd libraries**
 
 - 💬 Ask me about **React, Figma, Spline**
+
+- -🌐 Check out my GitHub repositories to explore my projects and code samples. Don't forget to leave a ⭐️ if you find anything interesting or useful!
 
 - 📫 How to reach me **satyumspathania@gmail.com**
 
